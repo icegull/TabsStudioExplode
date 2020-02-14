@@ -6,7 +6,7 @@ How to explode:
 
 1. Download dnSpy: https://github.com/0xd4d/dnSpy/releases?tdsourcetag=s_pctim_aiomsg
 
-2. Open the TabsStudio.dll, you might see iit in VS plugin folder like:
+2. Open the TabsStudio.dll, you might see it in VS plugin folder like:
    C:\Users\AAAAA\AppData\Local\Microsoft\VisualStudio\16.0_ca87153b\Extensions\bvrpto1s.nxn\
 
 3. Choose "IL" in title bar and query "verify_reg" in the Find windows and you will see:
