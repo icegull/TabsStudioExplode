@@ -11,7 +11,7 @@ How to explode:
 
 3. Choose "IL" in title bar and query "verify_reg" in the Find windows and you will see:
 
-   ![](dnSpy.jpg)
+   ![](https://github.com/icegull/TabsStudioExplode/blob/master/dnSpy.jpg)
 
 4. The explode address entrance is **0x0013BFA0，12 04** (This is based on Tabs Studio 4.6.1)
 
