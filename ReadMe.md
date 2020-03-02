@@ -24,3 +24,4 @@ How to explode:
 1. The Tabs Studio 4.6.1 explode address entrance is **0x0013BFA0**
 2. The Tabs Studio 4.7.0 explode address entrance is **0X0013CE70**
 3. The Tabs Studio 4.7.1 explode address entrance is **0X0013CF60**
+4. The Tabs Studio 4.7.3 explode address entrance is **0X0013D150**
