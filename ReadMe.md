@@ -27,3 +27,5 @@ How to explode:
 4. The Tabs Studio 4.7.3 explode address entrance is **0X0013D150**
 5. The Tabs Studio 4.8.0 explode address entrance is **0x00141960**
 6. The Tabs Studio 5.0.0 explode address entrance is **0x001322BC**
+7. The Tabs Studio 5.0.1 explode address entrance is **0x001322BC**
+
