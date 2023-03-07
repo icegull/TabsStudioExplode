@@ -31,5 +31,7 @@ How to explode:
 8. The Tabs Studio 5.1.2 explode address entrance is
    - For VS2019: **0x001331DC**
    - For VS2022: **0x0013D3EC**
+9.  The Tabs Studio 5.2.0 explode address entrance is
+   - For VS2022: **0x00144AF8**
 
 
