@@ -33,5 +33,7 @@ How to explode:
    - For VS2022: **0x0013D3EC**
 9. The Tabs Studio 5.2.0 explode address entrance is
    - For VS2022: **0x00144AF8**
+10. The Tabs Studio 5.3.0 explode address entrance is
+   - For VS2022: **0x00144B68**
 
 
