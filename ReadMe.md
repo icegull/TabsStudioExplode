@@ -19,7 +19,11 @@ How to explode:
 
 6. Done
 
+7. After you replace the patch, you need to open the "About" of the TabsStudio from VS2022 toolbar, and input any name to register
 
+
+
+The offset:
 
 1. The Tabs Studio 4.6.1 explode address entrance is **0x0013BFA0**
 2. The Tabs Studio 4.7.0 explode address entrance is **0X0013CE70**
@@ -35,5 +39,4 @@ How to explode:
    - For VS2022: **0x00144AF8**
 10. The Tabs Studio 5.3.0 explode address entrance is
        - For VS2022: **0x00144B68**
-
 
